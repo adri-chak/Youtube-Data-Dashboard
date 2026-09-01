@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 🌟 Overview
-This **Pro-Analyst Dashboard** transforms raw JSON data from the YouTube Data API v3 into actionable business intelligence. Built during my internship at **Soft Grow Tech**, this tool allows users to track engagement trends, visualize performance, and export data with a single click.
+This **Pro-Analyst Dashboard** transforms raw JSON from the YouTube Data API v3 into actionable business intelligence. Built during my internship at **Soft Grow Tech**, this tool allows users to track engagement trends, visualize performance, and export data with a single click.
 
 ---
 
